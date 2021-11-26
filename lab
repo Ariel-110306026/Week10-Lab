@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style type="text/css">
+		body {
+		background-color:beige;
+		} 
+		h1 {
+			color:navy;
+			text-decoration:underline;
+		}
+		h4{
+			color:indigo;
+			font-size:25pt;
+		}
+		em{
+			background-color:powderblue;
+			color:navy;
+		}
+		h3 em{
+			background-color:thistle;
+			color:purple;
+		}
+		.ena em{
+			background-color:thistle;
+			color:inherit;
+		}
+	</style>	
+</head>
+<body>
+	<div align="center">
+	<h1>Exploring and Visualizing Frequent Patterns in</h1>
+	<br>
+	<h1>Text Collections with FeatureLens</h1>
+	</div>
+	
+	<h4>Project description</h4><br>
+	<p>FeatureLens is an <em>interface</em> to explore and visualize features in collections of text documents.
+	It allows the exploration of frequent patterns found in the text: <br>
+	<div class="ena" style="color:saddlebrown;">e.g. frequently used words but also frequent patterns of ngrams which leads to the <em>discovering </em>of fuzzy repetition patterns.</div><br>
+	<h3>
+		FeatureLens integrates the results of text-miningalgorithms into a meaningful representation of a text collection. Features can be compared, and occurences of the 
+		patterns are shown in the text. To help users in <em>finding interesting patterns</em> FeatureLens highlights features that have
+		specific patterns of use in the collection (increasing, decreasing, spike behavior etc.</p>
+	</h3>
+	
+</body>
+</html>
