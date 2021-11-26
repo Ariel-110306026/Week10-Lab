@@ -41,7 +41,9 @@
 	<h3>
 		FeatureLens integrates the results of text-miningalgorithms into a meaningful representation of a text collection. Features can be compared, and occurences of the 
 		patterns are shown in the text. To help users in <em>finding interesting patterns</em> FeatureLens highlights features that have
-		specific patterns of use in the collection (increasing, decreasing, spike behavior etc.</p>
+		specific patterns of use in the collection (increasing, decreasing, spike behavior etc.)
+		<br> 
+		<a href="http://www.cs.umd.edu/hcil/textvis/featurelens/">resources</a></p>
 	</h3>
 	
 </body>
